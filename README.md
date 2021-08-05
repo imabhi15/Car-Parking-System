@@ -16,11 +16,11 @@ Using this program a user can do following :
 
 ***************************************************************
 
-User presses 1 when he wants to enter rickshaw in it
-User presses 2 when he wants to enter the car in it
-User presses 3 when he wants to enter the bus in it
-User presses 4 when he wants to show all his income and number of all vehicles
-User presses 5 if he wants to delete a record
+1. User presses 1 when he wants to enter rickshaw in it
+2. User presses 2 when he wants to enter the car in it
+3. User presses 3 when he wants to enter the bus in it
+4. User presses 4 when he wants to show all his income and number of all vehicles
+5. User presses 5 if he wants to delete a record
 
 
 
